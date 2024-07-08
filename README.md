@@ -1,5 +1,5 @@
 # db
-https://my-json-server.typicode.com/wuzhihaogithub/db/${fieldName}
+https://my-json-server.typicode.com/wuzhihaogithub/db/${fieldName}  
 eg:
   https://my-json-server.typicode.com/wuzhihaogithub/db/posts  
   https://my-json-server.typicode.com/wuzhihaogithub/db/comments  

@@ -1,9 +1,9 @@
 # db
 https://my-json-server.typicode.com/wuzhihaogithub/db/${fieldName}  
-eg:
-  https://my-json-server.typicode.com/wuzhihaogithub/db/posts  
-  https://my-json-server.typicode.com/wuzhihaogithub/db/comments  
-  https://my-json-server.typicode.com/wuzhihaogithub/db/profile  
+eg:  
+  - https://my-json-server.typicode.com/wuzhihaogithub/db/posts  
+  - https://my-json-server.typicode.com/wuzhihaogithub/db/comments  
+  - https://my-json-server.typicode.com/wuzhihaogithub/db/profile  
   
 # docs
 https://my-json-server.typicode.com/
